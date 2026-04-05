@@ -1,6 +1,6 @@
 package dao;
 
-import Connection.DBconnection;
+import connection.DBconnection;
 import domain.User;
 
 import java.sql.*;
